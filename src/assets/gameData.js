@@ -154,7 +154,7 @@ export const animalLand = [
     id: 20,
     name: "frog",
     imageSrc:
-      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312440/frog_benme2.jpg",
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312440/animals/frog_benme2.jpg",
     sound:
       "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314186/audio/frog_byywjr.mp3",
   },
@@ -162,7 +162,7 @@ export const animalLand = [
     id: 21,
     name: "giraffe",
     imageSrc:
-      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312457/giraffe_lkyo9h.jpg",
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312457/animals/giraffe_lkyo9h.jpg",
     sound:
       "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314186/audio/giraffe_ni1ugt.mp3",
   },
@@ -170,7 +170,7 @@ export const animalLand = [
     id: 22,
     name: "horse",
     imageSrc:
-      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312432/horse_gd2aln.jpg",
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312432/animals/horse_gd2aln.jpg",
     sound:
       "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314186/audio/horse_nfud3u.mp3",
   },
@@ -178,7 +178,7 @@ export const animalLand = [
     id: 23,
     name: "hippo",
     imageSrc:
-      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312430/hippo_r2n6iq.png",
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312430/animals/hippo_r2n6iq.png",
     sound:
       "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314186/audio/hippo_lx4gpg.mp3",
   },
@@ -186,7 +186,7 @@ export const animalLand = [
     id: 24,
     name: "hyena",
     imageSrc:
-      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312448/hyena_ekr3l4.jpg",
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312448/animals/hyena_ekr3l4.jpg",
     sound:
       "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314187/audio/hyena_tuttht.mp3",
   },
@@ -194,7 +194,7 @@ export const animalLand = [
     id: 26,
     name: "jaguar",
     imageSrc:
-      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312448/jaguar_gjelkj.jpg",
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312448/animals/jaguar_gjelkj.jpg",
     sound:
       "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314187/audio/jaguar_wwajzw.mp3",
   },
@@ -202,7 +202,7 @@ export const animalLand = [
     id: 27,
     name: "kangaroo",
     imageSrc:
-      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312434/kangaroo_sxuh50.png",
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312434/animals/kangaroo_sxuh50.png",
     sound:
       "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314187/audio/kangaroo_leqacz.mp3",
   },
@@ -210,7 +210,7 @@ export const animalLand = [
     id: 28,
     name: "Koala",
     imageSrc:
-      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312443/koala_zjdrxn.jpg",
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312443/animals/koala_zjdrxn.jpg",
     sound:
       "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314187/audio/koala_wl4w9a.mp3",
   },
@@ -218,7 +218,7 @@ export const animalLand = [
     id: 29,
     name: "lion",
     imageSrc:
-      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312442/lion_e9p2zy.jpg",
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312442/animals/lion_e9p2zy.jpg",
     sound:
       "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314187/audio/lion_hjyyum.mp3",
   },
