@@ -1,6 +1,5 @@
 <template>
   <div>
-    Hello, world
     <animal-land></animal-land>
   </div>
 </template>
