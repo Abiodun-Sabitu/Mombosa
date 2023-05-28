@@ -2,169 +2,224 @@ export const animalLand = [
   {
     id: 1,
     name: "bee",
-    imageSrc: "src/assets/animals/bee.jpg",
-    sound: "src/assets/audio/bee.mp3",
+    imageSrc: `https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312447/animals/Bee_ogohyh.jpg`,
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314187/audio/bee_nfrr5z.mp3",
   },
   {
     id: 2,
     name: "bear",
-    imageSrc: "src/assets/animals/bear.jpg",
-    sound: "src/assets/audio/beers.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312456/animals/Bear_xwgfie.jpg",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314566/audio/Bear_kspdbq.mp3",
   },
   {
     id: 3,
     name: "bird",
-    imageSrc: "src/assets/animals/bird.png",
-    sound: "src/assets/audio/bird.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312413/animals/bird_jo4toi.png",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314718/audio/bird_lhxtau.mp3",
   },
   {
     id: 4,
     name: "butterfly",
-    imageSrc: "src/assets/animals/butterfly.jpg",
-    sound: "src/assets/audio/butterfly.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312414/animals/butterfly_vetzkk.jpg",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685315100/audio/butterfly_opvo9j.mp3",
   },
   {
     id: 5,
     name: "camel",
-    imageSrc: "src/assets/animals/camel.png",
-    sound: "src/assets/audio/camel.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312380/animals/camel_uy0fsk.jpg",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685315215/audio/camel_oa4ztq.mp3",
   },
   {
     id: 6,
     name: "cat",
-    imageSrc: "src/assets/animals/cat.jpg",
-    sound: "src/assets/audio/cat.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312369/animals/cat_rdkhht.jpg",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685315303/audio/cat_klrvdc.mp3",
   },
   {
     id: 7,
     name: "cheetah",
-    imageSrc: "src/assets/animals/cheetah.png",
-    sound: "src/assets/audio/cheetah.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312366/animals/cheetah_renish.jpg",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685315304/audio/cheetah_xq6e61.mp3",
   },
   {
     id: 8,
     name: "chicken",
-    imageSrc: "src/assets/animals/chicken.jpg",
-    sound: "src/assets/audio/chicken.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312404/animals/chicken_mprqqw.jpg",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685315305/audio/chicken_fnnu3f.mp3",
   },
   {
     id: 9,
     name: "cow",
-    imageSrc: "src/assets/animals/cow.jpg",
-    sound: "src/assets/audio/cow.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312380/animals/cow_ujwgws.jpg",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685315305/audio/cow_nzswq4.mp3",
   },
   {
     id: 10,
     name: "crocodile",
-    imageSrc: "src/assets/animals/crocodile.jpg",
-    sound: "src/assets/audio/crocodile.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312373/animals/crocodile_afovzz.jpg",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314184/audio/crocodile_vmmdpj.mp3",
   },
   {
     id: 11,
     name: "deer",
-    imageSrc: "src/assets/animals/deer.jpg",
-    sound: "src/assets/audio/deer.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312387/animals/deer_ul0hyq.jpg",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685315305/audio/deer_hkkonb.mp3",
   },
   {
     id: 12,
     name: "dog",
-    imageSrc: "src/assets/animals/dog.jpg",
-    sound: "src/assets/audio/dog.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312404/animals/dog_v9jqz5.jpg",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685315305/audio/dog_l8cfob.mp3",
   },
   {
     id: 13,
     name: "dolphin",
-    imageSrc: "src/assets/animals/dolphin.jpg",
-    sound: "src/assets/audio/dolphin.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312399/animals/dolphin_viqfmv.jpg",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685315305/audio/dolphin_ynttqw.mp3",
   },
   {
     id: 14,
     name: "donkey",
-    imageSrc: "src/assets/animals/donkey.png",
-    sound: "src/assets/audio/donkey.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312409/animals/donkey_mabvds.png",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685315305/audio/donkey_k9bsbz.mp3",
   },
   {
     id: 15,
     name: "duck",
-    imageSrc: "src/assets/animals/duck.jpg",
-    sound: "src/assets/audio/duck.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312406/animals/duck_uyt9x9.jpg",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685315306/audio/duck_fwaflj.mp3",
   },
   {
     id: 16,
     name: "eagle",
-    imageSrc: "src/assets/animals/eagle.jpg",
-    sound: "src/assets/audio/eagle.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312430/animals/eagle_ltb0ez.jpg",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314185/audio/eagle_c1gpwc.mp3",
   },
   {
     id: 17,
     name: "elephant",
-    imageSrc: "src/assets/animals/elephant.jpg",
-    sound: "src/assets/audio/elephant.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312428/animals/elephant_bj7sg4.jpg",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314186/audio/elephant_yqpabf.mp3",
   },
   {
     id: 18,
     name: "fish",
-    imageSrc: "src/assets/animals/fish.jpg",
-    sound: "src/assets/audio/fish.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312433/animals/fish_pdlylm.jpg",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314185/audio/fish_f1dlgw.mp3",
   },
   {
     id: 19,
     name: "fox",
-    imageSrc: "src/assets/animals/fox.jpg",
-    sound: "src/assets/audio/fox.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312417/animals/fox_hqd3iw.jpg",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314186/audio/fox_se7jbq.mp3",
   },
   {
     id: 20,
     name: "frog",
-    imageSrc: "src/assets/animals/frog.jpg",
-    sound: "src/assets/audio/frog.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312440/frog_benme2.jpg",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314186/audio/frog_byywjr.mp3",
   },
   {
     id: 21,
     name: "giraffe",
-    imageSrc: "src/assets/animals/giraffe.jpg",
-    sound: "src/assets/audio/giraffe.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312457/giraffe_lkyo9h.jpg",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314186/audio/giraffe_ni1ugt.mp3",
   },
   {
     id: 22,
     name: "horse",
-    imageSrc: "src/assets/animals/horse.jpg",
-    sound: "src/assets/audio/horse.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312432/horse_gd2aln.jpg",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314186/audio/horse_nfud3u.mp3",
   },
   {
     id: 23,
     name: "hippo",
-    imageSrc: "src/assets/animals/hippo.png",
-    sound: "src/assets/audio/hippo.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312430/hippo_r2n6iq.png",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314186/audio/hippo_lx4gpg.mp3",
   },
   {
     id: 24,
     name: "hyena",
-    imageSrc: "src/assets/animals/hyena.jpg",
-    sound: "src/assets/audio/hyena.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312448/hyena_ekr3l4.jpg",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314187/audio/hyena_tuttht.mp3",
   },
   {
     id: 26,
     name: "jaguar",
-    imageSrc: "src/assets/animals/jaguar.jpg",
-    sound: "src/assets/audio/jaguar.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312448/jaguar_gjelkj.jpg",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314187/audio/jaguar_wwajzw.mp3",
   },
   {
     id: 27,
     name: "kangaroo",
-    imageSrc: "src/assets/animals/kangaroo.png",
-    sound: "src/assets/audio/kangaroo.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312434/kangaroo_sxuh50.png",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314187/audio/kangaroo_leqacz.mp3",
   },
   {
     id: 28,
     name: "Koala",
-    imageSrc: "src/assets/animals/koala.jpg",
-    sound: "src/assets/audio/koala.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312443/koala_zjdrxn.jpg",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314187/audio/koala_wl4w9a.mp3",
   },
   {
     id: 29,
     name: "lion",
-    imageSrc: "src/assets/animals/lion.jpg",
-    sound: "src/assets/audio/lion.mp3",
+    imageSrc:
+      "https://res.cloudinary.com/dq2ezvzkp/image/upload/v1685312442/lion_e9p2zy.jpg",
+    sound:
+      "https://res.cloudinary.com/dq2ezvzkp/video/upload/v1685314187/audio/lion_hjyyum.mp3",
   },
 ];
