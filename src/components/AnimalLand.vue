@@ -1,8 +1,8 @@
 <template>
   <game-heading v-slot:AnimalLandTitle>
-    <h3 class="text-center pt-4 fw-bolder">Mombosa Jungle</h3>
+    <h3 class="text-center pt-2 fw-bolder">Mombosa</h3>
   </game-heading>
-  <div class="container px-5 mt-5">
+  <div class="container px-5 mt-4 mb-5">
     <div class="row gap-5">
       <div
         id="animalCard"
@@ -76,13 +76,19 @@ body {
 
   background-color: white;
 }
+
 img {
-  width: 100px;
-  height: 90px;
+  width: 110px;
+  height: 110px;
   cursor: pointer;
 }
 
 .cardShadow:hover {
   transform: scale(1.5);
+}
+
+h3 {
+  font-size: 2.3rem;
+  color: rgba(6, 6, 127, 0.5);
 }
 </style>
